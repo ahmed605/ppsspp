@@ -7,7 +7,7 @@ configuration:
 install:
 - cmd: git submodule update --init --recursive
 build:
-  project: Windows/PPSSPP.sln
+  project: UWP/PPSSPP_UWP.sln
   parallel: true
   verbosity: normal
 test: off
