@@ -6,7 +6,7 @@ platform:
   - x64
 
 configuration:
-  - UWP Gold
+  - UWP Gold|x64
 build:
   project: UWP/PPSSPP_UWP.sln
 test: off
